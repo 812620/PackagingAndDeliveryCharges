@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\Desktop\\Return Order Management\\Packaging-and-Delivery\\PackagingAndDelivery.csproj": {}
+    "C:\\Users\\User\\Desktop\\Return Order Management\\PackagingAndDeliveryCharges\\PackagingAndDelivery.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\Desktop\\Return Order Management\\Packaging-and-Delivery\\PackagingAndDelivery.csproj": {
+    "C:\\Users\\User\\Desktop\\Return Order Management\\PackagingAndDeliveryCharges\\PackagingAndDelivery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\Return Order Management\\Packaging-and-Delivery\\PackagingAndDelivery.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Return Order Management\\PackagingAndDeliveryCharges\\PackagingAndDelivery.csproj",
         "projectName": "PackagingAndDelivery",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\Return Order Management\\Packaging-and-Delivery\\PackagingAndDelivery.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\Return Order Management\\Packaging-and-Delivery\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\Return Order Management\\PackagingAndDeliveryCharges\\PackagingAndDelivery.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Return Order Management\\PackagingAndDeliveryCharges\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

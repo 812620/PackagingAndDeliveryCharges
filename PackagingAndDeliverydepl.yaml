@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: packaginganddeliverydepl
+  name: packaginganddelivery
 spec:
   replicas: 1
   selector:
@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: packaginganddelivery
-        image: returnorderrn1.azurecr.io/packagerepos:latest
+        image: portalrn.azurecr.io/packagerepos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
